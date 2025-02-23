@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Supriya
-- 🌱 I’m currently learning Web Development and Advanced Java.
+- 🌱 I’m currently learning Web Development, Advanced Java and Python.
 
 
 <!---
